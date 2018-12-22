@@ -10,6 +10,7 @@ public class GitTest {
     }
 
     public static void testNonOff(){
-        
+
+        System.out.println("test stash");
     }
 }
