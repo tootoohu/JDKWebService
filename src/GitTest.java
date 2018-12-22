@@ -5,7 +5,7 @@ public class GitTest {
 
 
     public static void test(){
-        System.out.println("test 1");
+        System.out.println("test 1 git is a distributed system!!");
     }
 
 }
