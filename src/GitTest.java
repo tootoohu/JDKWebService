@@ -18,5 +18,7 @@ public class GitTest {
         System.out.println("master test Rebase1");
     }
 
-
+    public static void testRebase2(){
+        System.out.println("master test Rebase2");
+    }
 }
