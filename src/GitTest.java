@@ -13,4 +13,10 @@ public class GitTest {
 
         System.out.println("test stash");
     }
+
+    public static void testRebase1(){
+        System.out.println("master test Rebase1");
+    }
+
+
 }
